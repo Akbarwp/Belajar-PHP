@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.ejs": "html",
-        "*.module": "php"
-    },
-    "workbench.editor.tabSizing": "shrink"
-}
